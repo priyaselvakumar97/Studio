@@ -1,0 +1,165 @@
+body{
+    box-sizing: border-box;
+    background-color: #F7D8B4;
+    overflow:auto;
+}
+.header{
+    width: 100%;
+    float: left;
+    margin-top: -20px;
+    background-color:#84536D;
+    margin-top: -5px; 
+}
+.header1 li{
+    list-style-type: none;
+    display: inline;
+    padding: 10px;
+    font-size: 25px;
+}
+.header li a{
+    text-decoration: none;
+    color:white;
+}
+.header2{
+    float: right;
+    margin-top: -70px;
+    font-size: 25px;
+    margin-right: 50px;
+    color:white;
+   
+}
+.main{
+    width: 100%;
+    float: left;
+    margin-left: 20px;
+    display: flex;
+}
+.main1{
+    width: 25%;
+    float: left;
+}
+.w1{
+    height: 250px;
+    width: 80%;
+    margin-left: 40px;
+}
+.main h3{
+    margin-left: 90px;
+}
+.main1 p{
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.main2{
+    width: 25%;
+    float: left;
+}
+.w2{
+    height: 252px;
+    width: 80%;
+    margin-right:30px;
+    margin-left: 20px;
+}
+.main2 h3{
+    margin-left: 90px;
+}
+.main2 p{
+    margin-right: 70px;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+.main3{
+    width: 25%;
+    float: left;
+}
+.w3{
+    height: 252px;
+    width: 80%;
+    margin-right: 10px;
+}
+.main3 h3{
+    margin-left: 60px;
+}
+.main3 p{
+    margin-left: 2px;
+    margin-top: 10px;
+}
+.main4{
+    width: 25%;
+    float: left;
+}
+.w4{
+    height: 252px;
+    width: 80%;
+    margin-right: 10px;
+}
+.main4 h3{
+    margin-left: 70px;
+}
+.main4 p{
+    margin-left: 2px;
+    margin-top: 10px;
+}
+.menu{
+    width: 100%;
+    float: left;
+}
+.menu1{
+    width: 50%;
+    float: left;
+}
+.vd{
+    margin-left: 60px;
+}
+.menu2{
+    margin-right: 50px;
+}
+.menu2 p{
+    font-weight: 400;
+    font-size: 18px;
+    text-align: justify;
+}
+.footer{
+    width: 100%;
+    float: left;
+    background-color:#84536D ;
+    height: 50px;
+    margin-top: -4px;
+}
+.footer h2{
+    font-size: 15px;
+    font-weight: 600;
+    margin-left: 420px;   
+}
+.footer h3{
+    font-size: 15px;
+    font-weight: 600;
+    margin-left: 620px;
+    margin-top: -33px;    
+}
+.footer h4{
+    display: flex;
+    font-size: 15px;
+    font-weight: 600;
+    margin-left: 775px;
+    margin-top: -33px;    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
